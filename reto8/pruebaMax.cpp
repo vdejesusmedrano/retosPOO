@@ -14,4 +14,4 @@ int main(){
 //0. Ubicarse en el repositorio que vas a actualizar
 //1. git add .
 //2. git commit -m "Se añadió el reto 8"
-//3. git push origin
+//3. git push origin master
